@@ -5,3 +5,10 @@ C:\Users\Nitin Sharma\source\repos\Hello\Hello\obj\Debug\Hello.csprojAssemblyRef
 C:\Users\Nitin Sharma\source\repos\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
 C:\Users\Nitin Sharma\source\repos\Hello\Hello\obj\Debug\Hello.exe
 C:\Users\Nitin Sharma\source\repos\Hello\Hello\obj\Debug\Hello.pdb
+C:\Optimus\Avigilon\Induction\C-Sharp-Induction\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Optimus\Avigilon\Induction\C-Sharp-Induction\Hello\Hello\bin\Debug\Hello.exe
+C:\Optimus\Avigilon\Induction\C-Sharp-Induction\Hello\Hello\bin\Debug\Hello.pdb
+C:\Optimus\Avigilon\Induction\C-Sharp-Induction\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Optimus\Avigilon\Induction\C-Sharp-Induction\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Optimus\Avigilon\Induction\C-Sharp-Induction\Hello\Hello\obj\Debug\Hello.exe
+C:\Optimus\Avigilon\Induction\C-Sharp-Induction\Hello\Hello\obj\Debug\Hello.pdb
