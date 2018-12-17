@@ -1,0 +1,32 @@
+{
+    "Project1": {
+        "ProjectName": "Vaisala",
+		"OwnerName": "Nitin Sharma",
+		"EffortSpent": "90 Hrs"
+    },
+	"Project2": {
+        "ProjectName": "Avigilon",
+		"OwnerName": "Khushbu",
+		"EffortSpent": "200 Hrs"
+    },
+	"Project3": {
+        "ProjectName": "Squirrel",
+		"OwnerName": "Sarthak",
+		"EffortSpent": "150 Hrs"
+    },
+	"Project4": {
+        "ProjectName": "Monkey Media",
+		"OwnerName": "Shubham",
+		"EffortSpent": "100 Hrs"
+    },
+	"Project5": {
+        "ProjectName": "Xmatters",
+		"OwnerName": "Manisha",
+		"EffortSpent": "300 Hrs"
+    },
+	"Project6": {
+        "ProjectName": "Best Buy",
+		"OwnerName": "Kanika",
+		"EffortSpent": "340 Hrs"
+    }
+}
