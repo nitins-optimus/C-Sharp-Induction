@@ -14,3 +14,7 @@ C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\obj\Debug\WSR-Creator
 C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\obj\Debug\WSR-Creator.csproj.CoreCompileInputs.cache
 C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\obj\Debug\WSR-Creator.exe
 C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\obj\Debug\WSR-Creator.pdb
+C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nitin Sharma\source\repos\WSR-Creator\WSR-Creator\obj\Debug\WSR-Creator.csproj.CopyComplete

@@ -11,7 +11,12 @@
     </Window.DataContext>
 
     <Grid>
-        <ListView Margin="10" Name="WsrCollectn" ItemsSource="{Binding WsrList }">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ListView Margin="10" Name="WsrCollectn" ItemsSource="{Binding WsrList }" SelectedItem="{Binding SelectedWsr}">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="ProjectName" Width="120" DisplayMemberBinding="{Binding ProjectName}" />
