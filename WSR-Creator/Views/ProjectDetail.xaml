@@ -18,8 +18,7 @@
         <TextBox HorizontalAlignment="Left" Height="42" Margin="34,256,0,0" TextWrapping="Wrap" Text="{Binding EffortSpent, Mode=TwoWay}" VerticalAlignment="Top" Width="160"/>
 
         <ToolBar HorizontalAlignment="Left" Height="100" Margin="268,384,0,0" VerticalAlignment="Top" Width="207">
-            <Button Content="Button" Height="37" VerticalAlignment="Top" Width="75" Margin="0,35,0,0"/>
-            <Button Content="Button" Height="32" VerticalAlignment="Top" Width="75" Margin="0,35,0,30"/>
+            <Button Content="Save" Height="37" VerticalAlignment="Top" Width="75" Margin="0,35,0,0" Click="Button_Click"/>
         </ToolBar>
     </Grid>
 </Window>
