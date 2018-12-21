@@ -58,8 +58,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Views\ProjectDetail.xaml.cs">
-      <DependentUpon>ProjectDetail.xaml</DependentUpon>
+    <Compile Include="ProjectWsrDetail.cs" />
+    <Compile Include="Views\WsrProjectDetail.xaml.cs">
+      <DependentUpon>WsrProjectDetail.xaml</DependentUpon>
     </Compile>
     <Compile Include="WsrCollectn.cs" />
     <Compile Include="wsrList\add.cs" />
@@ -75,7 +76,7 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Views\ProjectDetail.xaml">
+    <Page Include="Views\WsrProjectDetail.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

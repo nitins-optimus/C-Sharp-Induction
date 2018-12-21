@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WSR_Creator.Models;
+using WSR_Creator.Views;
 
 namespace WSR_Creator
 {
@@ -37,6 +39,15 @@ namespace WSR_Creator
 
         private void TextBox_TextChanged_1(object sender, TextChangedEventArgs e)
         {
+
+        }
+        private void Wsr_OnMouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            
+            System.Diagnostics.Debug.WriteLine(sender.ToString());
+            WsrProjectDetail secondWin = new WsrProjectDetail();
+            var a = this.DataContext as WsrCollectn; 
+            secondWin.Display(a.SelectedWsr);
 
         }
     }
