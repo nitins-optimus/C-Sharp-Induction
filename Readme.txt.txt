@@ -1,1 +1,0 @@
-This repository is just for C# induction.
