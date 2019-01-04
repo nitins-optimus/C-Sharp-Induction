@@ -1,0 +1,30 @@
+﻿<Window x:Class="WSR_MVVM.Views.HomeScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WSR_MVVM.Views"
+        xmlns:local2="clr-namespace:WSR_MVVM.ViewModels"
+        xmlns:local11="clr-namespace:WSR_MVVM.Models"
+        mc:Ignorable="d"
+        Title="HomeScreen" Height="450" Width="800">
+    <Window.DataContext>
+        <local2:WsrCollectn/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ListView Margin="10" Name="WsrCollectn" ItemsSource="{Binding WsrList }" SelectedItem="{Binding SelectedWsr}"  MouseDoubleClick="Wsr_OnMouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ProjectName" Width="120" DisplayMemberBinding="{Binding ProjectName}" />
+                    <GridViewColumn Header="Effort" Width="80" DisplayMemberBinding="{Binding EffortSpent}" />
+                    <GridViewColumn Header="OwnerName" Width="150" DisplayMemberBinding="{Binding OwnerName}" />
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
