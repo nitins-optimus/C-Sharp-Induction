@@ -1,0 +1,7 @@
+C:\Users\Nitin Sharma\source\repos\GenCollectnEmployee\GenCollectnEmployee\bin\Debug\GenCollectnEmployee.exe.config
+C:\Users\Nitin Sharma\source\repos\GenCollectnEmployee\GenCollectnEmployee\bin\Debug\GenCollectnEmployee.exe
+C:\Users\Nitin Sharma\source\repos\GenCollectnEmployee\GenCollectnEmployee\bin\Debug\GenCollectnEmployee.pdb
+C:\Users\Nitin Sharma\source\repos\GenCollectnEmployee\GenCollectnEmployee\obj\Debug\GenCollectnEmployee.csprojAssemblyReference.cache
+C:\Users\Nitin Sharma\source\repos\GenCollectnEmployee\GenCollectnEmployee\obj\Debug\GenCollectnEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Nitin Sharma\source\repos\GenCollectnEmployee\GenCollectnEmployee\obj\Debug\GenCollectnEmployee.exe
+C:\Users\Nitin Sharma\source\repos\GenCollectnEmployee\GenCollectnEmployee\obj\Debug\GenCollectnEmployee.pdb
