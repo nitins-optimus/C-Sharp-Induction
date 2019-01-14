@@ -1,7 +1,0 @@
-C:\Users\Nitin Sharma\source\repos\CollectionClassSol\CollectionClassSol\bin\Debug\CollectionClassSol.exe.config
-C:\Users\Nitin Sharma\source\repos\CollectionClassSol\CollectionClassSol\bin\Debug\CollectionClassSol.exe
-C:\Users\Nitin Sharma\source\repos\CollectionClassSol\CollectionClassSol\bin\Debug\CollectionClassSol.pdb
-C:\Users\Nitin Sharma\source\repos\CollectionClassSol\CollectionClassSol\obj\Debug\CollectionClassSol.csprojAssemblyReference.cache
-C:\Users\Nitin Sharma\source\repos\CollectionClassSol\CollectionClassSol\obj\Debug\CollectionClassSol.csproj.CoreCompileInputs.cache
-C:\Users\Nitin Sharma\source\repos\CollectionClassSol\CollectionClassSol\obj\Debug\CollectionClassSol.exe
-C:\Users\Nitin Sharma\source\repos\CollectionClassSol\CollectionClassSol\obj\Debug\CollectionClassSol.pdb
