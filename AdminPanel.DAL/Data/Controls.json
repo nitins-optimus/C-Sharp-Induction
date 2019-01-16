@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Test Control 1",
+    "Type": "Type 1",
+    "PanelID": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Test Control 2",
+    "Type": "Type 2",
+    "PanelID": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Test Control 3",
+    "Type": "Type 2",
+    "PanelID": 1
+  }
+]

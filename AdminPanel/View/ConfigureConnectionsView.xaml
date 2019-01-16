@@ -1,0 +1,29 @@
+﻿<Window x:Class="AdminPanel.View.ConfigureConnectionsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Avigilon="clr-namespace:AdminPanel.VIewModel"
+        xmlns:local="clr-namespace:AdminPanel.View"
+        mc:Ignorable="d"
+        Title="ConfigureConnectionsView" Height="200" Width="300">
+    <Window.DataContext>
+        <Avigilon:ConfigureConnectionsViewModel/>
+    </Window.DataContext>
+    <Grid>
+        
+        <GroupBox>
+            <DataGrid
+                IsReadOnly="True"
+                AutoGenerateColumns="False"
+                ItemsSource="{Binding Connections}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="*" Binding="{Binding IP}" Header="IP"/>
+                    <DataGridTextColumn Width="*" Binding="{Binding Version}" Header="Version"/>
+                    <DataGridTextColumn Width="*" Binding="{Binding Status}" Header="Status"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+        
+    </Grid>
+</Window>

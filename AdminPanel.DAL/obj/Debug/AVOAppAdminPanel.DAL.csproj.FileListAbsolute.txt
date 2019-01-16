@@ -1,0 +1,10 @@
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\bin\Debug\AdminPanel.DAL.dll
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\bin\Debug\AdminPanel.DAL.pdb
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\bin\Debug\Newtonsoft.Json.pdb
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\obj\Debug\AVOAppAdminPanel.DAL.csprojAssemblyReference.cache
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\obj\Debug\AVOAppAdminPanel.DAL.csproj.CoreCompileInputs.cache
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\obj\Debug\AVOAppAdminPanel.DAL.csproj.CopyComplete
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\obj\Debug\AdminPanel.DAL.dll
+C:\Optimus\Avigilon\Induction\MVVM-Induction\AdminPanel.DAL\obj\Debug\AdminPanel.DAL.pdb

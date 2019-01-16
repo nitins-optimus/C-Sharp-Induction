@@ -1,0 +1,13 @@
+[
+
+  {
+    "IP": "124.12.10.2",
+    "Version": "3.2",
+    "Status": "offline"
+  },
+  {
+    "IP": "124.12.10.5",
+    "Version": "3.0",
+    "Status": "offline"
+  }
+]
